@@ -1,0 +1,14 @@
+.idea/
+.env_local
+*.DS_Store
+db.sqlite3
+dump.rdb
+*.pyc
+.coverage
+htmlcov/
+staticfiles/
+logfile
+static/
+gravty_webapp.log*
+
+.vscode/settings.json
